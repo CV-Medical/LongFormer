@@ -1,7 +1,8 @@
 # Longformer: Longitudinal Transformer for Alzheimer’s Disease Classification with Structural MRIs
 
 
-
+Official implementation of [Longformer: Longitudinal Transformer for Alzheimer’s Disease Classification
+with Structural MRIs](https://arxiv.org/pdf/2302.00901v2.pdf).
 
 
 ### Installation
