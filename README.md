@@ -13,7 +13,7 @@ install PyTorch 1.10.0 and torchvision 0.11.0:
 pip install pytorch==1.10.0 torchvision==0.11.0
 ```
 
-Install dependencies and pycocotools for VIS:
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
